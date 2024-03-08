@@ -13,8 +13,9 @@ Take these steps to push your source code into the Suns organization GitHub:
         * Features
         * Creators/Authors
 * In your terminal, navigate to the directory in which you wish to push to GitHub
-* Inside the terminal print these commands:
-    * ```git init``` to initiate the git repository and create the *.git* directory
+* After you've navigated to the project directory, print these commands in the terminal:
+    * ```git init``` to initiate the git repository and create the *.git* directory.
+        * If this is your first time - You should be prompted to login to GitHub (Which will set your SSH profile to successfully make requests).
     * ```git status``` to see what files are staged (green) and what files are not staged (red).
     * Create a .gitignore file within the directory if there are file that you want Git to ignore see [.gitignore documentation](https://git-scm.com/docs/gitignore) for more details.
     * ```git add *``` to stage all unstaged files
@@ -26,3 +27,6 @@ Take these steps to push your source code into the Suns organization GitHub:
 * Inside your terminal:
     * ```git remote add {name of repo} {URL}```
     * ```git push --set-upstream {name of repo} main```
+
+**Your files should now be visible within the GitHub repository**  
+*This is ONLY to get started, for more information on GitHub please see documentation at at https://git-scm.com/docs.*
