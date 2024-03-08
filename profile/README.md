@@ -29,4 +29,4 @@ Take these steps to push your source code into the Suns organization GitHub:
     * ```git push --set-upstream {name of repo} main```
 
 **Your files should now be visible within the GitHub repository**  
-*This is ONLY to get started, for more information on GitHub please see documentation at at https://git-scm.com/docs.*
+*This is ONLY to get started, for more information on GitHub please see documentation at https://git-scm.com/docs.*
