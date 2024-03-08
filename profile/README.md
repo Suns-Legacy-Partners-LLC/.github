@@ -17,7 +17,7 @@ Take these steps to push your source code into the Suns organization GitHub:
     * ```git init``` to initiate the git repository and create the *.git* directory.
         * If this is your first time - You should be prompted to login to GitHub (Which will set your SSH profile to successfully make requests).
     * ```git status``` to see what files are staged (green) and what files are not staged (red).
-    * Create a .gitignore file within the directory if there are file that you want Git to ignore see [.gitignore documentation](https://git-scm.com/docs/gitignore) for more details.
+    * Create a .gitignore file within the directory if there are files that you want Git to ignore see [.gitignore documentation](https://git-scm.com/docs/gitignore) for more details.
     * ```git add *``` to stage all unstaged files
         * OR add specific files ```git add path/to/unstaged/file1 path/to/unstaged/file2```
     * ```git commit -m "initial commit"``` to commit these files and/or changes when adding (or editing files down the line).
@@ -30,3 +30,6 @@ Take these steps to push your source code into the Suns organization GitHub:
 
 **Your files should now be visible within the GitHub repository**  
 *This is ONLY to get started, for more information on GitHub please see documentation at https://git-scm.com/docs.*
+
+### Help
+In the event that issues arise, reach out to **Kevin Regular**
