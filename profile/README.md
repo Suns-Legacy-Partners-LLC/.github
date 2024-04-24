@@ -25,8 +25,8 @@ Take these steps to push your source code into the Suns organization GitHub:
     * Click code
     * HTTPS > Copy the URL
 * Inside your terminal:
-    * ```git remote add {name of repo} {URL}```
-    * ```git push --set-upstream {name of repo} main```
+    * ```git remote add origin {URL}```
+    * ```git push -u origin master```
 
 **Your files should now be visible within the GitHub repository**  
 *This is ONLY to get started, for more information on GitHub please see documentation at https://git-scm.com/docs.*
